@@ -1,0 +1,33 @@
+Wygrał: Gracz biały
+Liczba rund: 23
+Gracz biały
+Całkowity czas: 3171 milisekund
+Łączna liczba wywołań funkcji min-max: 11802304
+Umieszczenie swojego pionka na pole 0. Czas szukania rozwiązania: 849 milisekund
+Umieszczenie swojego pionka na pole 2. Czas szukania rozwiązania: 1315 milisekund
+Umieszczenie swojego pionka na pole 7. Czas szukania rozwiązania: 59 milisekund
+Umieszczenie swojego pionka na pole 5. Czas szukania rozwiązania: 54 milisekund
+Umieszczenie swojego pionka na pole 18. Czas szukania rozwiązania: 423 milisekund
+Umieszczenie swojego pionka na pole 19. Czas szukania rozwiązania: 193 milisekund
+Umieszczenie swojego pionka na pole 9. Czas szukania rozwiązania: 74 milisekund
+Umieszczenie swojego pionka na pole 16. Czas szukania rozwiązania: 95 milisekund
+Umieszczenie swojego pionka na pole 15. Czas szukania rozwiązania: 44 milisekund
+Przesunięcie swojego pionka z pola 2 na pole 14. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 1. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 16 na pole 17. Czas szukania rozwiązania: 18 milisekund
+
+Gracz czarny
+Całkowity czas: 1747 milisekund
+Łączna liczba wywołań funkcji min-max: 5824912
+Umieszczenie swojego pionka na pole 1. Czas szukania rozwiązania: 337 milisekund
+Umieszczenie swojego pionka na pole 4. Czas szukania rozwiązania: 336 milisekund
+Umieszczenie swojego pionka na pole 3. Czas szukania rozwiązania: 236 milisekund
+Umieszczenie swojego pionka na pole 10. Czas szukania rozwiązania: 244 milisekund
+Umieszczenie swojego pionka na pole 13. Czas szukania rozwiązania: 109 milisekund
+Umieszczenie swojego pionka na pole 6. Czas szukania rozwiązania: 150 milisekund
+Umieszczenie swojego pionka na pole 20. Czas szukania rozwiązania: 175 milisekund
+Umieszczenie swojego pionka na pole 11. Czas szukania rozwiązania: 86 milisekund
+Umieszczenie swojego pionka na pole 8. Czas szukania rozwiązania: 29 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 2. Czas szukania rozwiązania: 27 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 18 milisekund
+

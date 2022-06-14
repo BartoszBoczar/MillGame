@@ -1,0 +1,311 @@
+Gra przerwana z powodu zbyt wielu rund
+Liczba rund: 301
+Gracz biały
+Całkowity czas: 2895 milisekund
+Łączna liczba wywołań funkcji min-max: 13555162
+Umieszczenie swojego pionka na pole 0. Czas szukania rozwiązania: 6 milisekund
+Umieszczenie swojego pionka na pole 2. Czas szukania rozwiązania: 3 milisekund
+Umieszczenie swojego pionka na pole 4. Czas szukania rozwiązania: 5 milisekund
+Umieszczenie swojego pionka na pole 6. Czas szukania rozwiązania: 4 milisekund
+Umieszczenie swojego pionka na pole 8. Czas szukania rozwiązania: 7 milisekund
+Umieszczenie swojego pionka na pole 10. Czas szukania rozwiązania: 4 milisekund
+Umieszczenie swojego pionka na pole 12. Czas szukania rozwiązania: 4 milisekund
+Umieszczenie swojego pionka na pole 14. Czas szukania rozwiązania: 3 milisekund
+Umieszczenie swojego pionka na pole 17. Czas szukania rozwiązania: 2 milisekund
+Usunięcia pionka przeciwnika na polu 7. Czas szukania rozwiązania: 6 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 7. Czas szukania rozwiązania: 4 milisekund
+Usunięcia pionka przeciwnika na polu 0. Czas szukania rozwiązania: 7 milisekund
+Przesunięcie swojego pionka z pola 2 na pole 1. Czas szukania rozwiązania: 3 milisekund
+Przesunięcie swojego pionka z pola 14 na pole 2. Czas szukania rozwiązania: 3 milisekund
+Przesunięcie swojego pionka z pola 2 na pole 1. Czas szukania rozwiązania: 4 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 1 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 3 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 5 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 5 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 5 milisekund
+Przesunięcie swojego pionka z pola 7 na pole 8. Czas szukania rozwiązania: 3 milisekund
+Usunięcia pionka przeciwnika na polu 3. Czas szukania rozwiązania: 3 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 5. Czas szukania rozwiązania: 5 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 13. Czas szukania rozwiązania: 11 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 7 milisekund
+Usunięcia pionka przeciwnika na polu 3. Czas szukania rozwiązania: 6 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 13. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 14. Czas szukania rozwiązania: 40 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 19 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 19 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 25 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 18 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 25 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 19 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 19 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 19 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 25 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 19 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 26 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 26 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 39 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 25 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 36 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 19 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 21 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 24 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 20 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 12 na pole 13. Czas szukania rozwiązania: 22 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 8. Czas szukania rozwiązania: 23 milisekund
+Przesunięcie swojego pionka z pola 8 na pole 12. Czas szukania rozwiązania: 21 milisekund
+
+Gracz czarny
+Całkowity czas: 15710 milisekund
+Łączna liczba wywołań funkcji min-max: 60039053
+Umieszczenie swojego pionka na pole 1. Czas szukania rozwiązania: 407 milisekund
+Umieszczenie swojego pionka na pole 3. Czas szukania rozwiązania: 288 milisekund
+Umieszczenie swojego pionka na pole 5. Czas szukania rozwiązania: 146 milisekund
+Umieszczenie swojego pionka na pole 7. Czas szukania rozwiązania: 130 milisekund
+Umieszczenie swojego pionka na pole 9. Czas szukania rozwiązania: 77 milisekund
+Umieszczenie swojego pionka na pole 11. Czas szukania rozwiązania: 47 milisekund
+Umieszczenie swojego pionka na pole 13. Czas szukania rozwiązania: 34 milisekund
+Umieszczenie swojego pionka na pole 20. Czas szukania rozwiązania: 20 milisekund
+Usunięcia pionka przeciwnika na polu 0. Czas szukania rozwiązania: 18 milisekund
+Umieszczenie swojego pionka na pole 0. Czas szukania rozwiązania: 19 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 4. Czas szukania rozwiązania: 16 milisekund
+Usunięcia pionka przeciwnika na polu 10. Czas szukania rozwiązania: 15 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 10. Czas szukania rozwiązania: 7 milisekund
+Usunięcia pionka przeciwnika na polu 1. Czas szukania rozwiązania: 11 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 3. Czas szukania rozwiązania: 6 milisekund
+Przesunięcie swojego pionka z pola 5 na pole 4. Czas szukania rozwiązania: 8 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 21. Czas szukania rozwiązania: 5 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 18. Czas szukania rozwiązania: 4 milisekund
+Przesunięcie swojego pionka z pola 13 na pole 5. Czas szukania rozwiązania: 4 milisekund
+Usunięcia pionka przeciwnika na polu 10. Czas szukania rozwiązania: 5 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 10. Czas szukania rozwiązania: 10 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 3. Czas szukania rozwiązania: 15 milisekund
+Usunięcia pionka przeciwnika na polu 6. Czas szukania rozwiązania: 7 milisekund
+Przesunięcie swojego pionka z pola 5 na pole 4. Czas szukania rozwiązania: 11 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 3. Czas szukania rozwiązania: 43 milisekund
+Usunięcia pionka przeciwnika na polu 5. Czas szukania rozwiązania: 95 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 9. Czas szukania rozwiązania: 171 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 0. Czas szukania rozwiązania: 244 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 1. Czas szukania rozwiązania: 172 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 2. Czas szukania rozwiązania: 225 milisekund
+Przesunięcie swojego pionka z pola 11 na pole 6. Czas szukania rozwiązania: 182 milisekund
+Przesunięcie swojego pionka z pola 6 na pole 7. Czas szukania rozwiązania: 111 milisekund
+Przesunięcie swojego pionka z pola 7 na pole 4. Czas szukania rozwiązania: 100 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 163 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 110 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 78 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 117 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 119 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 90 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 162 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 110 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 80 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 89 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 142 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 63 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 169 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 97 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 83 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 116 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 150 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 90 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 179 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 91 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 60 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 89 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 137 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 63 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 169 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 104 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 84 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 120 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 115 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 62 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 170 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 97 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 80 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 119 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 131 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 62 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 168 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 103 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 77 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 87 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 154 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 83 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 169 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 96 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 68 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 109 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 150 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 78 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 174 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 100 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 67 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 106 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 144 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 87 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 162 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 106 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 76 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 116 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 147 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 61 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 192 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 98 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 82 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 126 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 141 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 63 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 144 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 101 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 77 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 109 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 144 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 88 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 144 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 78 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 85 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 114 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 141 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 79 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 141 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 107 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 80 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 121 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 111 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 63 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 180 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 101 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 83 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 114 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 131 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 62 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 141 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 76 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 83 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 122 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 142 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 91 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 156 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 92 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 80 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 127 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 129 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 61 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 171 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 104 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 98 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 89 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 131 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 94 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 185 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 76 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 84 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 121 milisekund
+Przesunięcie swojego pionka z pola 10 na pole 3. Czas szukania rozwiązania: 114 milisekund
+Przesunięcie swojego pionka z pola 3 na pole 4. Czas szukania rozwiązania: 94 milisekund
+Przesunięcie swojego pionka z pola 4 na pole 1. Czas szukania rozwiązania: 170 milisekund
+Przesunięcie swojego pionka z pola 1 na pole 0. Czas szukania rozwiązania: 104 milisekund
+Przesunięcie swojego pionka z pola 0 na pole 9. Czas szukania rozwiązania: 84 milisekund
+Przesunięcie swojego pionka z pola 9 na pole 10. Czas szukania rozwiązania: 90 milisekund
+
